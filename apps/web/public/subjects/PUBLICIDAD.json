@@ -1,0 +1,148 @@
+[
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PUB9211",
+    "name": "LABORATORIO DE BRANDING I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "PUB9212",
+    "name": "TALL. INTEGRACIÓN GRÁFICA Y AUDIOVISUAL",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PUB9213",
+    "name": "TÉC. CUALI. Y ANÁLISIS DE LA COM. PUB.",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PUB9214",
+    "name": "CREACIÓN Y NARRATIVA II",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PUB9215",
+    "name": "ANÁLISIS Y ESTRATEGIA DE MARCA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PUB9311",
+    "name": "LABORATORIO TRANSMEDIA",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "PUB9312",
+    "name": "ANALÍTICA DIGITAL",
+    "credits": "4 ",
+    "references": [
+      "X"
+    ]
+  },
+  {
+    "code": "PUB9313",
+    "name": "TÉCNICAS CUANTITATIVAS Y AUDIENCIAS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PUB9314",
+    "name": "GES. COM. ESTRATÉGICA Y CORPORATIVA II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PUB9315",
+    "name": "PLANIFICACIÓN ESTRATÉGICA DE MEDIOS",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PUB9411",
+    "name": "CLÍNICA PROFESIONAL",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "PUB9412",
+    "name": "TALLER DE DISEÑO Y PLATAFORMAS DIGITALES",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PUB9413",
+    "name": "STORYTELLING",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PUB9414",
+    "name": "ESTRATEGIA DE SOSTENIBILIDAD",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PUB9415",
+    "name": "COMUNICACIÓN GUBERNAMENTAL Y POLÍTICA",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PRI0001",
+    "name": "PRÁCTICA ELECTIVA INTERDISCIPLINARIA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "PUB10111",
+    "name": "LABORATORIO DE PUBLICIDAD",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "PUB10112",
+    "name": "TALLER DE IMAGEN Y RETOQUE DIGITAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PUB10113",
+    "name": "IMAGEN Y CULTURA",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PUB10114",
+    "name": "ÉTICA Y LEGISLACIÓN",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PUB10115",
+    "name": "MARKETING ESTRATÉGICO",
+    "credits": "5 ",
+    "references": []
+  }
+]

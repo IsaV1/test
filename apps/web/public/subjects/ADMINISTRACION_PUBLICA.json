@@ -1,0 +1,164 @@
+[
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01112",
+    "name": "FUNDAMENTOS DE LA GESTIÓN PÚBLICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01113",
+    "name": "TEORÍA ORGANIZACIONAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01114",
+    "name": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01115",
+    "name": "INTRODUCCIÓN AL DERECHO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01211",
+    "name": "ESTADISTICA I",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "ADP01212",
+    "name": "MACROECONOMÍA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "ADP01213",
+    "name": "AUDITORÍA DEL SECTOR PÚBLICO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01214",
+    "name": "PROCESO POLÍTICO Y LEGISLATIVO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01215",
+    "name": "DERECHO CONSTITUCIONAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01311",
+    "name": "TALLER DE TECNOLOGÍAS DE INFORMACIÓN",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "ADP01312",
+    "name": "ECONOMÍA DEL SECTOR PÚBLICO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01313",
+    "name": "GESTIÓN DE PERSONAS EN EL SECTOR PÚBLICO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01314",
+    "name": "DISEÑO Y EVALUACIÓN DE PROYECTOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01315",
+    "name": "BASES JURÍDICAS PARA LA ADM DEL ESTADO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01411",
+    "name": "INNOVACIÓN PÚBLICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01412",
+    "name": "EVALUACIÓN DE IMPACTO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01413",
+    "name": "NEG Y TOMA DE DECIS EN EL SECTOR PÚBLICO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01414",
+    "name": "TRANSFORMACIÓN DIGITAL EN EL SECTOR PÚBL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01415",
+    "name": "ÉTICA, PROBIDAD Y TRANSPARENCIA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ADP01116",
+    "name": "MATEMÁTICA I",
+    "credits": "8 ",
+    "references": []
+  },
+  {
+    "code": "FAEEP001",
+    "name": "PROYECTO DE GRADO I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEEP002",
+    "name": "ECONOMÍA POLÍTICA",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEEP003",
+    "name": "MÉTODOS CUANTITATIVOS PARA POLÍTICAS PÚB",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEEP004",
+    "name": "ECONOMÍA AVANZADA DEL SECTOR PÚBLICO",
+    "credits": "7 ",
+    "references": []
+  }
+]

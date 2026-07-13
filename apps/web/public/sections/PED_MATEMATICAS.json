@@ -1,0 +1,342 @@
+[
+  {
+    "code": "PHL2009VC_01",
+    "subjectCode": "PHL2009",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GAZMURI RENATO JUAN JOSE"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GAZMURI RENATO JUAN JOSE"
+      }
+    ]
+  },
+  {
+    "code": "PHL2009FG_01",
+    "subjectCode": "PHL2009",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GAZMURI RENATO JUAN JOSE"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GAZMURI RENATO JUAN JOSE"
+      }
+    ]
+  },
+  {
+    "code": "PHL2009VC_02",
+    "subjectCode": "PHL2009",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "OCAMPO SOFIA",
+        "secondTeacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "SA",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "OCAMPO SOFIA",
+        "secondTeacher": "LETELIER BÁRBARA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2009FG_02",
+    "subjectCode": "PHL2009",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "OCAMPO SOFIA",
+        "secondTeacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "SA",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "OCAMPO SOFIA",
+        "secondTeacher": "LETELIER BÁRBARA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2010_VC01",
+    "subjectCode": "PHL2010",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDITA MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDITA MARIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2010_FG01",
+    "subjectCode": "PHL2010",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDITA MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDITA MARIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2010_VC02",
+    "subjectCode": "PHL2010",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "PHL2010_VC03",
+    "subjectCode": "PHL2010",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2010_FG03",
+    "subjectCode": "PHL2010",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2011VC_01",
+    "subjectCode": "PHL2011",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "COX CRISTIAN"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "COX CRISTIAN"
+      }
+    ]
+  },
+  {
+    "code": "PHL2011FG_01",
+    "subjectCode": "PHL2011",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "COX CRISTIAN"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "COX CRISTIAN"
+      }
+    ]
+  },
+  {
+    "code": "PHL2011VC_02",
+    "subjectCode": "PHL2011",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GYSLING JACQUELINE ALICIA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GYSLING JACQUELINE ALICIA"
+      }
+    ]
+  },
+  {
+    "code": "PMM01111_CAT",
+    "subjectCode": "PMM01111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      }
+    ]
+  },
+  {
+    "code": "PMM01112_VC1",
+    "subjectCode": "PMM01112",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DOCKENDORFF MONIKA EUGENIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DOCKENDORFF MONIKA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "PMM01113_VC1",
+    "subjectCode": "PMM01113",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CAROL ELIZABETH"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CAROL ELIZABETH"
+      }
+    ]
+  },
+  {
+    "code": "PMM01113_VC2",
+    "subjectCode": "PMM01113",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MOSJOS STEFAN CONSTANTINO"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MOSJOS STEFAN CONSTANTINO"
+      }
+    ]
+  }
+]

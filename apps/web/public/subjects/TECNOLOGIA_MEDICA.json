@@ -1,0 +1,308 @@
+[
+  {
+    "code": "TEM4043",
+    "name": "INTERNADO EN LABORATORIO CLÍNICO I",
+    "credits": "18 ",
+    "references": []
+  },
+  {
+    "code": "TEM4044",
+    "name": "CASOS CLÍNICOS INTEGRADOS LAB. CLÍNICO",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "TEM4071",
+    "name": "TOMOGRAFÍA COMPUTADA II",
+    "credits": "10 ",
+    "references": []
+  },
+  {
+    "code": "TEM4072",
+    "name": "RESONANCIA MAGNÉTICA II",
+    "credits": "10 ",
+    "references": []
+  },
+  {
+    "code": "TEM4073",
+    "name": "CASOS CLÍNICOS INTEGRADOS EN IMAGINOLOGÍ",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "TEM4109",
+    "name": "CASOS CLÍNICOS INTEGRADOS EN OFTALMOLOGÍ",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "TEM9005",
+    "name": "TALLER DE COMUNICACIÓN LABORAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEMEXAI",
+    "name": "EXAMEN DE TÍTULO IMAG. Y FÍS. MÉDICA",
+    "credits": "0 ",
+    "references": []
+  },
+  {
+    "code": "TEMEXAL",
+    "name": "EXAMEN DE TÍTULO DE LABORATORIO CLÍNICO",
+    "credits": "0 ",
+    "references": []
+  },
+  {
+    "code": "TEMEXAO",
+    "name": "EXAMEN DE TÍTULO OFTALM. Y OPTOM.",
+    "credits": "0 ",
+    "references": []
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM4505",
+    "name": "ATENCIÓN PRIMARIA Y BAJA VISIÓN",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM4600",
+    "name": "INTERNADO I EN OFTALMOLOG Y OPTOMETRÍA",
+    "credits": "15 ",
+    "references": []
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM9010",
+    "name": "ANATOMÍA TOPOGRÁFICA POR IMÁGENES",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM9011",
+    "name": "FARMACOTERAPIA OCULAR",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM9016",
+    "name": "ELECTIVO INMUNOLOGÍA BÁSICA Y CLÍNICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM051101",
+    "name": "MORFOFUNCIÓN I",
+    "credits": "8 ",
+    "references": []
+  },
+  {
+    "code": "TEM051102",
+    "name": "MATEMÁTICAS Y BIOFÍSICA APLICADA",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "TEM051103",
+    "name": "BIOLOGÍA CELULAR Y GENÉTICA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "TEM051104",
+    "name": "COMUNIC. Y USO DE HERRAMIENT. TECNOLÓG.",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM051105",
+    "name": "ORIENTACIÓN Y ÉTICA PROFESIONAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM052101",
+    "name": "FISIOPATOLOGÍA Y FARMACOLOGÍA",
+    "credits": "10 ",
+    "references": []
+  },
+  {
+    "code": "TEM052102",
+    "name": "BIOQUÍMICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM053101",
+    "name": "HEMATOLOGÍA CLÍNICA I",
+    "credits": "9 ",
+    "references": []
+  },
+  {
+    "code": "TEM053102",
+    "name": "BIOQUÍMICA CLÍNICA I",
+    "credits": "10 ",
+    "references": []
+  },
+  {
+    "code": "TEM053103",
+    "name": "BIOLOGÍA MOLECULAR APLICADA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "TEM053104",
+    "name": "SALUD PÚBLICA Y EPIDEMIOLOGÍA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM054101",
+    "name": "MICROBIOLOGÍA CLÍNICA (AC-2)",
+    "credits": "12 ",
+    "references": []
+  },
+  {
+    "code": "TEM054102",
+    "name": "INMUNOHEMATOLOGÍA",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "TEM054103",
+    "name": "HEMATOLOGÍA CLÍNICA III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM054104",
+    "name": "GESTIÓN DE CALIDAD EN BIOANÁLISIS CLÍNIC",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM053105",
+    "name": "RADIODIAGNÓSTICO I",
+    "credits": "10 ",
+    "references": []
+  },
+  {
+    "code": "TEM053106",
+    "name": "RADIOFÍSICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM053107",
+    "name": "ANATOMÍA IMAGENOLÓGICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM054105",
+    "name": "MEDICINA NUCLEAR",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "TEM054106",
+    "name": "TOMOGRAFÍA COMPUTADA II",
+    "credits": "9 ",
+    "references": []
+  },
+  {
+    "code": "TEM054107",
+    "name": "ULTRASONIDO I",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "TEM054108",
+    "name": "ANATOMÍA IMAGENOLÓGICA INTEGRADA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM054109",
+    "name": "GESTIÓN DE CALIDAD EN IMAGENOLOGÍA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM053108",
+    "name": "EXPLORACIÓN DEL SISTEMA VISUAL",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "TEM053109",
+    "name": "MORFOFISIOPATOLOGÍA OCULAR I",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM053110",
+    "name": "OPTOMETRÍA I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "TEM054110",
+    "name": "IMAGENOLOGÍA OCULAR (AC-2)",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "TEM054111",
+    "name": "ÓPTICA OFTÁLMICA Y CONTACTOLOGÍA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "TEM054112",
+    "name": "FARMACOLOGÍA OCULAR",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "TEM054113",
+    "name": "ESTRABOLOGÍA II",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "TEM054114",
+    "name": "GESTIÓN DE CALIDAD EN OFTALMOLOGÍA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PRI0001",
+    "name": "PRÁCTICA ELECTIVA INTERDISCIPLINARIA",
+    "credits": "6 ",
+    "references": []
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "code": "EVE0301",
+    "name": "DERECHO EMPRESARIAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "EVE0101",
+    "name": "ESTADISTICA I",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CAV1033",
+    "name": "AUDITORIA SISTEMAS DE INFORMACIÓN",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CAV1034",
+    "name": "AUDITORIA TRIBUTARIA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CAV1024",
+    "name": "CONTROL DE GESTIÓN",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CAV1073",
+    "name": "RIESGO Y VALUACIÓN DE ACTIVOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CAV1171",
+    "name": "JUEGO DE INTEGRACIÓN PROFESIONAL",
+    "credits": "10 ",
+    "references": []
+  },
+  {
+    "code": "CAV1046",
+    "name": "TRIBUTARIA PERSONAS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CAV00004",
+    "name": "APLICACIÓN DE LAS IFRS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CAV00003",
+    "name": "AUDITORÍA FORENSE",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CAV00001",
+    "name": "GESTIÓN TRIBUTARIA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "EVE5802",
+    "name": "TALLER DE EMPRENDIMIENTO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "EVE5806",
+    "name": "REESTRUCTURACION DE EMPRESAS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "IAE06111",
+    "name": "TECNOLOGÍAS DE INFORMACIÓN",
+    "credits": "5 ",
+    "references": [
+      "X"
+    ]
+  },
+  {
+    "code": "CAV02111",
+    "name": "FUNDAMENTOS DE CONTABILIDAD",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CAV02112",
+    "name": "ADMINISTRACIÓN",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "CAV02113",
+    "name": "DERECHO LABORAL Y SOCIEDADES",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "CAV02114",
+    "name": "MATEMÁTICAS PARA LOS NEGOCIOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CAV02211",
+    "name": "CONTABILIDAD SUPERIOR",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CAV02212",
+    "name": "ENTORNO ECONÓMICO",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "CAV02213",
+    "name": "CÓDIGO TRIBUTARIO",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "CAV02214",
+    "name": "PROCESOS DE COSTOS",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "IIG03211",
+    "name": "ARQUITECTURA DE SISTEMAS INFORMÁTICOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CAV02311",
+    "name": "AUDITORIA I",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "CAV02312",
+    "name": "TRIBUITARIA EMPRESAS",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "CAV02313",
+    "name": "FINANZAS II",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "CAV02314",
+    "name": "COSTO PARA LA TOMA DE DESICIONES",
+    "credits": "4 ",
+    "references": []
+  }
+]

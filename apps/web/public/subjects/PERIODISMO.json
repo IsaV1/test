@@ -1,0 +1,272 @@
+[
+  {
+    "code": "PEREXA5",
+    "name": "EXAMEN DE TÍTULO",
+    "credits": "0 ",
+    "references": []
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6114",
+    "name": "ARGUMENTACIÓN Y PENSAMIENTO CRÍTICO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6115",
+    "name": "HISTORIA CONTEMPORÁNEA",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PER6211",
+    "name": "CAJA DE HERRAMIENTAS DEL PERIODISTA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "PER6212",
+    "name": "INVESTIGACIÓN EN COMUNICACIÓN SOCIAL I",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6213",
+    "name": "AUDIOVISUAL I: LOCUCIÓN E IMAGEN",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6214",
+    "name": "DIGITAL II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6215",
+    "name": "CHILE ENTRE SIGLOS",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PER6216",
+    "name": "ACTUALIDAD 3",
+    "credits": "1 ",
+    "references": []
+  },
+  {
+    "code": "PER6311",
+    "name": "PRENSA ESCRITA II: CRÓNICAS Y PERFILES",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6312",
+    "name": "COMUNICACIÓN ESTRATÉGICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6313",
+    "name": "AUDIOVISUAL III: NOTICIAS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6314",
+    "name": "TALLER DE ACTUALIDAD ECONÓMICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6317",
+    "name": "ÉTICA Y LEGISLACIÓN PERIODÍSTICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6316",
+    "name": "ACTUALIDAD 5",
+    "credits": "1 ",
+    "references": []
+  },
+  {
+    "code": "PER6411",
+    "name": "PERIODISMO DE INVESTIGACIÓN",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "PER6412",
+    "name": "AUDIENCIAS Y OPINIÓN PÚBLICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6413",
+    "name": "AUDIOVISUAL IV: REPORTAJE Y PRODUCCIÓN",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6414",
+    "name": "GESTIÓN DE MEDIOS",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PER6415",
+    "name": "TALLER DE REPORTEO DE ACTUALIDAD",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6416",
+    "name": "ACTUALIDAD 7",
+    "credits": "1 ",
+    "references": []
+  },
+  {
+    "code": "PER6417",
+    "name": "PRÁCTICA I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "PER6514",
+    "name": "PRÁCTICA II",
+    "credits": "15 ",
+    "references": []
+  },
+  {
+    "code": "PER6511",
+    "name": "PROYECTO DE TITULO",
+    "credits": "10 ",
+    "references": []
+  },
+  {
+    "code": "PER6513",
+    "name": "PODCAST Y CRÓNICAS RADIALES",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6601",
+    "name": "COMUNICACIÓN, TECNOLOGÍA Y GÉNERO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6604",
+    "name": "PERIODISMO INTERNACIONAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6605",
+    "name": "HERRAMIENTAS DE FACT CHECKING",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6616",
+    "name": "COMUNICACIÓN PARA LA SUSTENTABILIDAD",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6619",
+    "name": "POSTPRODUCCIÓN AUDIOVISUAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6618",
+    "name": "TALLER DE ENTREVISTAS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6629",
+    "name": "ESTRATEGIAS DE CONTENIDOS PARA COM. DIG.",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER6630",
+    "name": "COM. PARA DESAFÍOS SANITARIOS GLOBALES",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PRI0001",
+    "name": "PRÁCTICA ELECTIVA INTERDISCIPLINARIA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "PER6635",
+    "name": "TALLER DE INVESTIGACIÓN Y PROD. AUDIOVI.",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER07111",
+    "name": "TALLER DE NOTICIAS Y MEDIOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "PER07112",
+    "name": "HISTORIA DEL PERIODISMO CHILENO",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "PER07113",
+    "name": "DIGITAL I: NARRACIÓN DIGITAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER07114",
+    "name": "REDACCIÓN GENERAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER07115",
+    "name": "COMUNICACIÓN Y REALIDAD",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER07117",
+    "name": "CHILE CONTEMPORÁNEO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PER07116",
+    "name": "ACTUALIDAD I",
+    "credits": "1 ",
+    "references": []
+  }
+]

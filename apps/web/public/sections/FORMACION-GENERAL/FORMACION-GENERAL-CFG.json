@@ -1,0 +1,2787 @@
+[
+  {
+    "code": "CFG2014_CB01",
+    "subjectCode": "CFG2014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "LOPEZ ANA PAOLA",
+        "secondTeacher": "MEDALLA TANIA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "LOPEZ ANA PAOLA",
+        "secondTeacher": "MEDALLA TANIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2027_FG01",
+    "subjectCode": "CFG2027",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA FG 01",
+        "isMandatory": true,
+        "teacher": "FIGUEROA DANTE OMAR",
+        "secondTeacher": "GUTIERREZ VOLKER AMAURY"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA FG 01",
+        "isMandatory": true,
+        "teacher": "FIGUEROA DANTE OMAR",
+        "secondTeacher": "GUTIERREZ VOLKER AMAURY"
+      }
+    ]
+  },
+  {
+    "code": "CFG2059_FG01",
+    "subjectCode": "CFG2059",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "HUENUN JAIME LUIS",
+        "secondTeacher": "CATALÁN AILIN"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "HUENUN JAIME LUIS",
+        "secondTeacher": "CATALÁN AILIN"
+      }
+    ]
+  },
+  {
+    "code": "CFG2065_FG01",
+    "subjectCode": "CFG2065",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "HINOJOSA HUGO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "HINOJOSA HUGO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2066_FG01",
+    "subjectCode": "CFG2066",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO",
+        "secondTeacher": "PEREZ DANIELA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO",
+        "secondTeacher": "PEREZ DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2086_FG01",
+    "subjectCode": "CFG2086",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BUGUEÑO RODRIGO ALFONSO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BUGUEÑO RODRIGO ALFONSO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2098_CB01",
+    "subjectCode": "CFG2098",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ÁNGEL LUNA",
+        "secondTeacher": "SCHNEUER MARIA JOSE"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ÁNGEL LUNA",
+        "secondTeacher": "SCHNEUER MARIA JOSE"
+      }
+    ]
+  },
+  {
+    "code": "CFG2117_FG01",
+    "subjectCode": "CFG2117",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "CASTILLO VASCO ROLANDO EDGARDO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "CASTILLO VASCO ROLANDO EDGARDO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2135_CB01",
+    "subjectCode": "CFG2135",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ ROSARIO CAROLINA",
+        "secondTeacher": "LARA ROMINA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ ROSARIO CAROLINA",
+        "secondTeacher": "LARA ROMINA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2149_CB01",
+    "subjectCode": "CFG2149",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "FLORES CARLA",
+        "secondTeacher": "SANTIBAÑEZ MARA JIMENA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "FLORES CARLA",
+        "secondTeacher": "SANTIBAÑEZ MARA JIMENA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2149_CB02",
+    "subjectCode": "CFG2149",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "B-LEARNING 02",
+        "isMandatory": true,
+        "teacher": "SANTIBAÑEZ MARA JIMENA"
+      },
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "B-LEARNING 02",
+        "isMandatory": true,
+        "teacher": "SANTIBAÑEZ MARA JIMENA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2150_FG01",
+    "subjectCode": "CFG2150",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "CORREA MARIA XIMENA",
+        "secondTeacher": "WOLFF ALAN ALEJANDRO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "CORREA MARIA XIMENA",
+        "secondTeacher": "WOLFF ALAN ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2158_FG01",
+    "subjectCode": "CFG2158",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA AMERICAN UNIVERSITY SEC 01",
+        "isMandatory": true,
+        "teacher": "JORQUERA CONSTANZA FERNANDA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA AMERICAN UNIVERSITY SEC 01",
+        "isMandatory": true,
+        "teacher": "JORQUERA CONSTANZA FERNANDA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2166_FG01",
+    "subjectCode": "CFG2166",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ FELIPE ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ FELIPE ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CFG2177_CB01",
+    "subjectCode": "CFG2177",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "SALGADO SAMUEL EDUARDO",
+        "secondTeacher": "CALDERON GUILLERMO DANIEL"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "SALGADO SAMUEL EDUARDO",
+        "secondTeacher": "CALDERON GUILLERMO DANIEL"
+      }
+    ]
+  },
+  {
+    "code": "CFG2189_FG01",
+    "subjectCode": "CFG2189",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "MILLACURA CLAUDIO VICENTE"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "MILLACURA CLAUDIO VICENTE"
+      }
+    ]
+  },
+  {
+    "code": "CFG2200_FG01",
+    "subjectCode": "CFG2200",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ABBOTT FELIPE ALBERTO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ABBOTT FELIPE ALBERTO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2202_CB01",
+    "subjectCode": "CFG2202",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PUENTES GERMAN ADOLFO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PUENTES GERMAN ADOLFO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2203_FG01",
+    "subjectCode": "CFG2203",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA FG 01",
+        "isMandatory": true,
+        "teacher": "MONTT PEDRO NOLASCO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA FG 01",
+        "isMandatory": true,
+        "teacher": "MONTT PEDRO NOLASCO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2208_FG01",
+    "subjectCode": "CFG2208",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ROBLES GILBERTO ALFREDO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ROBLES GILBERTO ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2209_CB01",
+    "subjectCode": "CFG2209",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "CESPEDES CATALINA",
+        "secondTeacher": "BARRERO LINA MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "CESPEDES CATALINA",
+        "secondTeacher": "BARRERO LINA MARIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2222_FG01",
+    "subjectCode": "CFG2222",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA AGUSTIN TOMAS",
+        "secondTeacher": "SCHMIDT FRANCISCO JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA AGUSTIN TOMAS",
+        "secondTeacher": "SCHMIDT FRANCISCO JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "CFG2222_FG02",
+    "subjectCode": "CFG2222",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA AMERICAN UNIVERSITY SEC 02",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA AGUSTIN TOMAS",
+        "secondTeacher": "SCHMIDT FRANCISCO JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA AMERICAN UNIVERSITY SEC 02",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA AGUSTIN TOMAS",
+        "secondTeacher": "SCHMIDT FRANCISCO JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "CFG2224_CB01",
+    "subjectCode": "CFG2224",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "SINGH DOMINIQUE",
+        "secondTeacher": "AGAR LORENZO RENE"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "SINGH DOMINIQUE",
+        "secondTeacher": "AGAR LORENZO RENE"
+      }
+    ]
+  },
+  {
+    "code": "CFG2238_FG01",
+    "subjectCode": "CFG2238",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GODOY CARMEN  GLORIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GODOY CARMEN  GLORIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2239_CB01",
+    "subjectCode": "CFG2239",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "HERNÁNDEZ HÉCTOR"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "HERNÁNDEZ HÉCTOR"
+      }
+    ]
+  },
+  {
+    "code": "CFG2240_FG01",
+    "subjectCode": "CFG2240",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PEREZ DANIELA ANDREA",
+        "secondTeacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PEREZ DANIELA ANDREA",
+        "secondTeacher": "NAVARRO MYRIAM ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2244_CB01",
+    "subjectCode": "CFG2244",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "GUERRA OSCAR   PATRICIO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "GUERRA OSCAR   PATRICIO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2253_FG01",
+    "subjectCode": "CFG2253",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "OTERO EDISON HERMES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "OTERO EDISON HERMES"
+      }
+    ]
+  },
+  {
+    "code": "CFG2273_FG02",
+    "subjectCode": "CFG2273",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA FG02 (PRESENCIAL)",
+        "isMandatory": true,
+        "teacher": "MAZZUCCHELLI CHIARA",
+        "secondTeacher": "KOLUPURI SAIMURALI"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA FG02 (PRESENCIAL)",
+        "isMandatory": true,
+        "teacher": "MAZZUCCHELLI CHIARA",
+        "secondTeacher": "KOLUPURI SAIMURALI"
+      }
+    ]
+  },
+  {
+    "code": "CFG2278_FG01",
+    "subjectCode": "CFG2278",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA AMERICAN UNIVERSITY SEC 01",
+        "isMandatory": true,
+        "teacher": "GODOY EDUARDO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA AMERICAN UNIVERSITY SEC 01",
+        "isMandatory": true,
+        "teacher": "GODOY EDUARDO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CFG2278_FG02",
+    "subjectCode": "CFG2278",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA FG02",
+        "isMandatory": true,
+        "teacher": "GODOY EDUARDO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA FG02",
+        "isMandatory": true,
+        "teacher": "GODOY EDUARDO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CFG2280_FG01",
+    "subjectCode": "CFG2280",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GUAJARDO BEATRIZ IGNACIA",
+        "secondTeacher": "PEREZ CARLOS"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GUAJARDO BEATRIZ IGNACIA",
+        "secondTeacher": "PEREZ CARLOS"
+      }
+    ]
+  },
+  {
+    "code": "CFG5005_FG01",
+    "subjectCode": "CFG5005",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ PAULINA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ PAULINA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5006_CB01",
+    "subjectCode": "CFG5006",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "LIENDO DANIELA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "LIENDO DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2294_CB01",
+    "subjectCode": "CFG2294",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "AEDO MARIA PAZ",
+        "secondTeacher": "RAMÍREZ CARLOS ALBERTO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "AEDO MARIA PAZ",
+        "secondTeacher": "RAMÍREZ CARLOS ALBERTO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2295_CB01",
+    "subjectCode": "CFG2295",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "SCHONGUT NICOLAS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "SCHONGUT NICOLAS"
+      }
+    ]
+  },
+  {
+    "code": "CFG2296_CB01",
+    "subjectCode": "CFG2296",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ROMERO ELENA PILAR",
+        "secondTeacher": "HERNÁNDEZ CRISTÓBAL IGNACIO"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ROMERO ELENA PILAR",
+        "secondTeacher": "HERNÁNDEZ CRISTÓBAL IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2312_FG01",
+    "subjectCode": "CFG2312",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "REYES MIGUEL MARCELO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "REYES MIGUEL MARCELO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2318_FG01",
+    "subjectCode": "CFG2318",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PEÑA PATRICIA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PEÑA PATRICIA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2327_FG01",
+    "subjectCode": "CFG2327",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "VIAL XIMENA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "VIAL XIMENA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2323_CB01",
+    "subjectCode": "CFG2323",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "CORREA ANDRES ALEJANDRO"
+      },
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "CORREA ANDRES ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2323_CB02",
+    "subjectCode": "CFG2323",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "B-LEARNING FG02",
+        "isMandatory": true,
+        "teacher": "CORREA ANDRES ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "B-LEARNING FG02",
+        "isMandatory": true,
+        "teacher": "CORREA ANDRES ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2322_CB01",
+    "subjectCode": "CFG2322",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "VALDERRAMA LORENA BEATRIZ",
+        "secondTeacher": "MEIER  STEFAN ALEXANDER"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "VALDERRAMA LORENA BEATRIZ",
+        "secondTeacher": "MEIER  STEFAN ALEXANDER"
+      }
+    ]
+  },
+  {
+    "code": "CFG2324_CB01",
+    "subjectCode": "CFG2324",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "LIEMPI MARCELA ANTONIETA",
+        "secondTeacher": "VERGARA XIMENA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "LIEMPI MARCELA ANTONIETA",
+        "secondTeacher": "VERGARA XIMENA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2331_CB01",
+    "subjectCode": "CFG2331",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PEÑA PATRICIA EUGENIA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PEÑA PATRICIA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2335_CB01",
+    "subjectCode": "CFG2335",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ALVEAR KATHERINE"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ALVEAR KATHERINE"
+      }
+    ]
+  },
+  {
+    "code": "CFG2339_FG01",
+    "subjectCode": "CFG2339",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "BAEZA KAREN",
+        "secondTeacher": "PUGA JUANA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "BAEZA KAREN",
+        "secondTeacher": "PUGA JUANA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2341_FG01",
+    "subjectCode": "CFG2341",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LAVIN CLAUDIO SEBASTIAN"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LAVIN CLAUDIO SEBASTIAN"
+      }
+    ]
+  },
+  {
+    "code": "CFG2343_CB01",
+    "subjectCode": "CFG2343",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "CIFUENTES MARIA ANGELA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "CIFUENTES MARIA ANGELA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2347_FG01",
+    "subjectCode": "CFG2347",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ORMEÑO JUAN ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ORMEÑO JUAN ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2352_FG01",
+    "subjectCode": "CFG2352",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "SANHUEZA MARIA SOLEDAD"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "SANHUEZA MARIA SOLEDAD"
+      }
+    ]
+  },
+  {
+    "code": "CFG2355_CB01",
+    "subjectCode": "CFG2355",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "LOPEZ ANA PAOLA",
+        "secondTeacher": "GALLARDO MILENA SUSANA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "LOPEZ ANA PAOLA",
+        "secondTeacher": "GALLARDO MILENA SUSANA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2353_CB01",
+    "subjectCode": "CFG2353",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "AGAR LORENZO RENE",
+        "secondTeacher": "SÁEZ DANIELA BELÉN"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "AGAR LORENZO RENE",
+        "secondTeacher": "SÁEZ DANIELA BELÉN"
+      }
+    ]
+  },
+  {
+    "code": "CFG2358_CB01",
+    "subjectCode": "CFG2358",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ABALO BERNARDITA MARIA MILAGROS",
+        "secondTeacher": "GALINDO JAVIER"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ABALO BERNARDITA MARIA MILAGROS",
+        "secondTeacher": "GALINDO JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "CFG2365_FG01",
+    "subjectCode": "CFG2365",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "TAPIA PATRICIO LORENZO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "TAPIA PATRICIO LORENZO"
+      }
+    ]
+  },
+  {
+    "code": "CFG2368_FG01",
+    "subjectCode": "CFG2368",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ARÁNGUIZ SAPPHO ALEXA",
+        "secondTeacher": "DURAND MARIA TERESA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ARÁNGUIZ SAPPHO ALEXA",
+        "secondTeacher": "DURAND MARIA TERESA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2374_FG01",
+    "subjectCode": "CFG2374",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GALLARDO MILENA SUSANA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GALLARDO MILENA SUSANA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2383_CB01",
+    "subjectCode": "CFG2383",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BUSTA CRISTIAN ANDRÉS"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BUSTA CRISTIAN ANDRÉS"
+      }
+    ]
+  },
+  {
+    "code": "CFG2385_FG01",
+    "subjectCode": "CFG2385",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "RAMÍREZ CAROLINA",
+        "secondTeacher": "MÜLLER BRENDA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "RAMÍREZ CAROLINA",
+        "secondTeacher": "MÜLLER BRENDA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2387_CB01",
+    "subjectCode": "CFG2387",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ZURLO ALICE"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ZURLO ALICE"
+      }
+    ]
+  },
+  {
+    "code": "CFG2390_CB01",
+    "subjectCode": "CFG2390",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "MALDONADO PIEDAD ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "MALDONADO PIEDAD ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2397_FG01",
+    "subjectCode": "CFG2397",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GALLARDO MILENA SUSANA"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GALLARDO MILENA SUSANA"
+      }
+    ]
+  },
+  {
+    "code": "CFG2398_FG01",
+    "subjectCode": "CFG2398",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES FG01 100% EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "NAVARRO VALERIA SONIA EVA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES FG01 100% EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "NAVARRO VALERIA SONIA EVA"
+      }
+    ]
+  },
+  {
+    "code": "DER06214_FG1",
+    "subjectCode": "DER06214",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BRICEÑO CARLOS HIGINIO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BRICEÑO CARLOS HIGINIO"
+      }
+    ]
+  },
+  {
+    "code": "DER06214_VC1",
+    "subjectCode": "DER06214",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BRICEÑO CARLOS HIGINIO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BRICEÑO CARLOS HIGINIO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5013_FG01",
+    "subjectCode": "CFG5013",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01 COIL",
+        "isMandatory": true,
+        "teacher": "ROSSI ALEJANDRO",
+        "secondTeacher": "LEYTON GUILLERMO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01 COIL",
+        "isMandatory": true,
+        "teacher": "ROSSI ALEJANDRO",
+        "secondTeacher": "LEYTON GUILLERMO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5014_FG01",
+    "subjectCode": "CFG5014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA FG01 100% EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "LEYTON GUILLERMO",
+        "secondTeacher": "GONZALEZ CLAUDIA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA FG01 100% EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "LEYTON GUILLERMO",
+        "secondTeacher": "GONZALEZ CLAUDIA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5012_FG01",
+    "subjectCode": "CFG5012",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA FG01 100% EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "RAMIREZ GUILLERMO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA FG01 100% EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "RAMIREZ GUILLERMO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5018_FG01",
+    "subjectCode": "CFG5018",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA FG01 EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "ORDENES YASNA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA FG01 EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "ORDENES YASNA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5021_CB01",
+    "subjectCode": "CFG5021",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "B-LEARNING FG01 EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "YANG BIN"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "B-LEARNING FG01 EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "YANG BIN"
+      }
+    ]
+  },
+  {
+    "code": "CFG5023_FG01",
+    "subjectCode": "CFG5023",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "LIEMPI MARCELA ANTONIETA",
+        "secondTeacher": "VERGARA XIMENA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "LIEMPI MARCELA ANTONIETA",
+        "secondTeacher": "VERGARA XIMENA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5024_FG01",
+    "subjectCode": "CFG5024",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ROSSI ALEJANDRO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ROSSI ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5026_FG01",
+    "subjectCode": "CFG5026",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA ROBERTO BOLAÑO",
+        "isMandatory": true,
+        "teacher": "AGUILAR MARCELA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA ROBERTO BOLAÑO",
+        "isMandatory": true,
+        "teacher": "AGUILAR MARCELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5028_FG01",
+    "subjectCode": "CFG5028",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CURSO DE APRENDIZAJE + CIUDADANÍA",
+        "isMandatory": true,
+        "teacher": "TAGLE ISABEL MARGARITA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CURSO DE APRENDIZAJE + CIUDADANÍA",
+        "isMandatory": true,
+        "teacher": "TAGLE ISABEL MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "ICG4111_FG01",
+    "subjectCode": "ICG4111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ CAROLINA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ CAROLINA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "ICG4111_VC01",
+    "subjectCode": "ICG4111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ CAROLINA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ CAROLINA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "ICG4111_BA01",
+    "subjectCode": "ICG4111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ CAROLINA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ CAROLINA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "ICG4114_FG01",
+    "subjectCode": "ICG4114",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DE ROSAS PABLO FERNANDO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DE ROSAS PABLO FERNANDO"
+      }
+    ]
+  },
+  {
+    "code": "ICG4114_CA01",
+    "subjectCode": "ICG4114",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DE ROSAS PABLO FERNANDO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DE ROSAS PABLO FERNANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "ICG4114_BA01",
+    "subjectCode": "ICG4114",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DE ROSAS PABLO FERNANDO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DE ROSAS PABLO FERNANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CAV02222_VC1",
+    "subjectCode": "CAV02222",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DÍAZ JUAN ESTEBAN"
+      },
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DÍAZ JUAN ESTEBAN"
+      }
+    ]
+  },
+  {
+    "code": "CFG5034_FG01",
+    "subjectCode": "CFG5034",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "LABBE ERIKA FABIOLA",
+        "secondTeacher": "DEL RÍO ALEJANDRA JULIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "LABBE ERIKA FABIOLA",
+        "secondTeacher": "DEL RÍO ALEJANDRA JULIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5036_FG01",
+    "subjectCode": "CFG5036",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "MENA MILLARAY ANTONIA",
+        "secondTeacher": "BOITANO ANGELA ROSSANA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "MENA MILLARAY ANTONIA",
+        "secondTeacher": "BOITANO ANGELA ROSSANA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5038_FG01",
+    "subjectCode": "CFG5038",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "LOPRESTI ROMINA",
+        "secondTeacher": "MARTINEZ ALEJANDRO ARTURO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "LOPRESTI ROMINA",
+        "secondTeacher": "MARTINEZ ALEJANDRO ARTURO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5039_FG01",
+    "subjectCode": "CFG5039",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BOHER MANUEL",
+        "secondTeacher": "FERNANDEZ PATRICIO HERMAN"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BOHER MANUEL",
+        "secondTeacher": "FERNANDEZ PATRICIO HERMAN"
+      }
+    ]
+  },
+  {
+    "code": "CFG5041_FG01",
+    "subjectCode": "CFG5041",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GUAJARDO BEATRIZ IGNACIA",
+        "secondTeacher": "VECINO MARIA CELESTE"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GUAJARDO BEATRIZ IGNACIA",
+        "secondTeacher": "VECINO MARIA CELESTE"
+      }
+    ]
+  },
+  {
+    "code": "SOC0925_VC1",
+    "subjectCode": "SOC09225",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "RIVAS ALEJANDRA SOFÍA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "RIVAS ALEJANDRA SOFÍA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5042_FG01",
+    "subjectCode": "CFG5042",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BRICEÑO PABLO AGUSTIN"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BRICEÑO PABLO AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CFG5049_FG01",
+    "subjectCode": "CFG5049",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ZURITA CARLOS NICOLÁS FELIPE"
+      },
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ZURITA CARLOS NICOLÁS FELIPE"
+      }
+    ]
+  },
+  {
+    "code": "CFG5052_FG01",
+    "subjectCode": "CFG5052",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ARRE MONTSERRAT NICOLE"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ARRE MONTSERRAT NICOLE"
+      }
+    ]
+  },
+  {
+    "code": "CFG5053_FG01",
+    "subjectCode": "CFG5053",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "VILCHES DIEGO ANTONIO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "VILCHES DIEGO ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5061_CB01",
+    "subjectCode": "CFG5061",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "MARDONES MARCELO MAURICIO",
+        "secondTeacher": "VILA WALDO CLAUDIO"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "MARDONES MARCELO MAURICIO",
+        "secondTeacher": "VILA WALDO CLAUDIO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5062_FG01",
+    "subjectCode": "CFG5062",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ALVARADO MATIAS FELIPE"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ALVARADO MATIAS FELIPE"
+      }
+    ]
+  },
+  {
+    "code": "CFG5063_FG01",
+    "subjectCode": "CFG5063",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "RAMIREZ WILMAR ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "RAMIREZ WILMAR ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CFG5065_FG01",
+    "subjectCode": "CFG5065",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PALACIOS CRISTIAN ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PALACIOS CRISTIAN ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CFG5066_FG01",
+    "subjectCode": "CFG5066",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "DEL RÍO JULIO JOSE"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "DEL RÍO JULIO JOSE"
+      }
+    ]
+  },
+  {
+    "code": "CFG5067_CB01",
+    "subjectCode": "CFG5067",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "CIEZA LUCAS ALEJO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "CIEZA LUCAS ALEJO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5070_FG01",
+    "subjectCode": "CFG5070",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA FG01 100% EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "LEYTON GUILLERMO",
+        "secondTeacher": "TALLONI NICOLÁS ERNESTO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA FG01 100% EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "LEYTON GUILLERMO",
+        "secondTeacher": "TALLONI NICOLÁS ERNESTO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5072_FG01",
+    "subjectCode": "CFG5072",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA APRENDIZAJE Y CIUDADANÍA",
+        "isMandatory": true,
+        "teacher": "GUERRA OSCAR   PATRICIO",
+        "secondTeacher": "GEDIES MARIANA ANAIS"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA APRENDIZAJE Y CIUDADANÍA",
+        "isMandatory": true,
+        "teacher": "GUERRA OSCAR   PATRICIO",
+        "secondTeacher": "GEDIES MARIANA ANAIS"
+      }
+    ]
+  },
+  {
+    "code": "CFG5073_FG01",
+    "subjectCode": "CFG5073",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BARRIENTOS CLAUDIO JAVIER"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BARRIENTOS CLAUDIO JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "CFG5074_FG01",
+    "subjectCode": "CFG5074",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GARCIA FERNANDO MARTIN"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "GARCIA FERNANDO MARTIN"
+      }
+    ]
+  },
+  {
+    "code": "CFG5085_CB01",
+    "subjectCode": "CFG5085",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      }
+    ]
+  },
+  {
+    "code": "CFG5090_CB01",
+    "subjectCode": "CFG5090",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "BARRERO LINA MARIA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "BARRERO LINA MARIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5089_CB01",
+    "subjectCode": "CFG5089",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "DE MATHEUS LUIS FERNANDO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "DE MATHEUS LUIS FERNANDO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5088_CB01",
+    "subjectCode": "CFG5088",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ACEVEDO SEBASTIAN ADOLFO"
+      },
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ACEVEDO SEBASTIAN ADOLFO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5087_CB01",
+    "subjectCode": "CFG5087",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ESTEVA MÓNICA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "ESTEVA MÓNICA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5086_CB01",
+    "subjectCode": "CFG5086",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "VESELY CAROLA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "VESELY CAROLA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5091_FG01",
+    "subjectCode": "CFG5091",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ ROSARIO CAROLINA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ ROSARIO CAROLINA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5096_FG01",
+    "subjectCode": "CFG5096",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTE FG01 EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "VIAL XIMENA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTE FG01 EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "VIAL XIMENA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5097_FG01",
+    "subjectCode": "CFG5097",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "JORQUERA CONSTANZA FERNANDA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "JORQUERA CONSTANZA FERNANDA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5098_FG01",
+    "subjectCode": "CFG5098",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "TANGORRA MANUEL"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "TANGORRA MANUEL"
+      }
+    ]
+  },
+  {
+    "code": "CFG5100_FG01",
+    "subjectCode": "CFG5100",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "RIOS MACARENA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "RIOS MACARENA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5099_FG01",
+    "subjectCode": "CFG5099",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "IUSPA CARLA JESSICA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "IUSPA CARLA JESSICA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5102_FG01",
+    "subjectCode": "CFG5102",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA FG01 EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA JOSE"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA FG01 EN INGLÉS",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA JOSE"
+      }
+    ]
+  },
+  {
+    "code": "CFG5101_FG01",
+    "subjectCode": "CFG5101",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE MARIA LEONOR"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE MARIA LEONOR"
+      }
+    ]
+  },
+  {
+    "code": "CFG5103_FG01",
+    "subjectCode": "CFG5103",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PEÑA ELIANA CARMEN"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PEÑA ELIANA CARMEN"
+      }
+    ]
+  },
+  {
+    "code": "CFG5104_FG01",
+    "subjectCode": "CFG5104",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ALONSO ANDRÉS"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ALONSO ANDRÉS"
+      }
+    ]
+  },
+  {
+    "code": "CFG5105_FG01",
+    "subjectCode": "CFG5105",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "RICHARDS ARIEL FLORENCIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "RICHARDS ARIEL FLORENCIA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5106_FG01",
+    "subjectCode": "CFG5106",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "DIAZ JORGE ESTEBAN"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "DIAZ JORGE ESTEBAN"
+      }
+    ]
+  },
+  {
+    "code": "CFG5107_FG01",
+    "subjectCode": "CFG5107",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ILABACA PAULA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ILABACA PAULA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5108_FG01",
+    "subjectCode": "CFG5108",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ESTEFANE ANDRÉS"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "ESTEFANE ANDRÉS"
+      }
+    ]
+  },
+  {
+    "code": "CFG5109_FG01",
+    "subjectCode": "CFG5109",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "URRUTIA CAMILA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "URRUTIA CAMILA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5110_FG01",
+    "subjectCode": "CFG5110",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PONCE DE LEÓN MACARENA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA FG01",
+        "isMandatory": true,
+        "teacher": "PONCE DE LEÓN MACARENA"
+      }
+    ]
+  },
+  {
+    "code": "CFG5111_CB01",
+    "subjectCode": "CFG5111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "PLAZA CAMILA BELÉN"
+      },
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "PLAZA CAMILA BELÉN"
+      }
+    ]
+  },
+  {
+    "code": "CFG5112_CB01",
+    "subjectCode": "CFG5112",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "SALGADO SAMUEL EDUARDO",
+        "secondTeacher": "SUAZO ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "SALGADO SAMUEL EDUARDO",
+        "secondTeacher": "SUAZO ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "CFG5113_CB01",
+    "subjectCode": "CFG5113",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "RIQUELME ALBERTO IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "B-LEARNING FG01",
+        "isMandatory": true,
+        "teacher": "RIQUELME ALBERTO IGNACIO"
+      }
+    ]
+  }
+]

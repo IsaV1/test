@@ -1,0 +1,6591 @@
+[
+  {
+    "code": "KIN0902_VC01",
+    "subjectCode": "KIN0902",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CATEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ FRANCISCO JAVIER"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CATEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ FRANCISCO JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "KIN0902_VC02",
+    "subjectCode": "KIN0902",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PAVEZ FRANCISCO JAVIER"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PAVEZ FRANCISCO JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "KIN1024_VC01",
+    "subjectCode": "KIN1024",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      }
+    ]
+  },
+  {
+    "code": "KIN1035_VC01",
+    "subjectCode": "KIN1035",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      }
+    ]
+  },
+  {
+    "code": "KIN1036_VC01",
+    "subjectCode": "KIN1036",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN1037_VC01",
+    "subjectCode": "KIN1037",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      }
+    ]
+  },
+  {
+    "code": "KINEXA_CAT",
+    "subjectCode": "KINEXA1",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "EXAMEN DE TITULO 01",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN",
+        "secondTeacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "EXAMEN DE TITULO 01",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN",
+        "secondTeacher": "MARTINEZ ALAN FREDERIK"
+      }
+    ]
+  },
+  {
+    "code": "KIN0903_CA1",
+    "subjectCode": "KIN0903",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DINA KAREN DORIS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DINA KAREN DORIS"
+      }
+    ]
+  },
+  {
+    "code": "KIN0904_VC01",
+    "subjectCode": "KIN0904",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC01",
+    "subjectCode": "CIG1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC10",
+    "subjectCode": "CIG1002",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC11",
+    "subjectCode": "CIG1002",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC12",
+    "subjectCode": "CIG1002",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC13",
+    "subjectCode": "CIG1002",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "GARCÍA TRINIDAD"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "GARCÍA TRINIDAD"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC14",
+    "subjectCode": "CIG1002",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 14",
+        "isMandatory": true,
+        "teacher": "GARCÍA TRINIDAD"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 14",
+        "isMandatory": true,
+        "teacher": "GARCÍA TRINIDAD"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC15",
+    "subjectCode": "CIG1002",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 15",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 15",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC16",
+    "subjectCode": "CIG1002",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 16",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 16",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC17",
+    "subjectCode": "CIG1002",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 17",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 17",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC18",
+    "subjectCode": "CIG1002",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 18",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 18",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC19",
+    "subjectCode": "CIG1002",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 19",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 19",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC02",
+    "subjectCode": "CIG1002",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_CB20",
+    "subjectCode": "CIG1002",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 20",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 20",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC21",
+    "subjectCode": "CIG1002",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 21",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 21",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC22",
+    "subjectCode": "CIG1002",
+    "section": "Sección 22",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 22",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 22",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC23",
+    "subjectCode": "CIG1002",
+    "section": "Sección 23",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 23",
+        "isMandatory": true,
+        "teacher": "GARCÍA TRINIDAD"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 23",
+        "isMandatory": true,
+        "teacher": "GARCÍA TRINIDAD"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC24",
+    "subjectCode": "CIG1002",
+    "section": "Sección 24",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 24",
+        "isMandatory": true,
+        "teacher": "GARCÍA TRINIDAD"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 24",
+        "isMandatory": true,
+        "teacher": "GARCÍA TRINIDAD"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC25",
+    "subjectCode": "CIG1002",
+    "section": "Sección 25",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 25",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 25",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC26",
+    "subjectCode": "CIG1002",
+    "section": "Sección 26",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 26",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 26",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC27",
+    "subjectCode": "CIG1002",
+    "section": "Sección 27",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 27",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 27",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC28",
+    "subjectCode": "CIG1002",
+    "section": "Sección 28",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 28",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 28",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC29",
+    "subjectCode": "CIG1002",
+    "section": "Sección 29",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 29",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 29",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC03",
+    "subjectCode": "CIG1002",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC30",
+    "subjectCode": "CIG1002",
+    "section": "Sección 30",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 30",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 30",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC31",
+    "subjectCode": "CIG1002",
+    "section": "Sección 31",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 31",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 31",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_CB04",
+    "subjectCode": "CIG1002",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES B-LEARNING INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_CB05",
+    "subjectCode": "CIG1002",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_CB06",
+    "subjectCode": "CIG1002",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC07",
+    "subjectCode": "CIG1002",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC08",
+    "subjectCode": "CIG1002",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1012_VC09",
+    "subjectCode": "CIG1002",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC01",
+    "subjectCode": "CIG1003",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC10",
+    "subjectCode": "CIG1003",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC11",
+    "subjectCode": "CIG1003",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC12",
+    "subjectCode": "CIG1003",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC13",
+    "subjectCode": "CIG1003",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "VACANTES CARRERA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "VACANTES CARRERA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC14",
+    "subjectCode": "CIG1003",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 14",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 14",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC15",
+    "subjectCode": "CIG1003",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 15",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 15",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC16",
+    "subjectCode": "CIG1003",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 16",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 16",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC17",
+    "subjectCode": "CIG1003",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 17",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 17",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC18",
+    "subjectCode": "CIG1003",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 18",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 18",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC19",
+    "subjectCode": "CIG1003",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 19",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 19",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC02",
+    "subjectCode": "CIG1003",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC20",
+    "subjectCode": "CIG1003",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 20",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 20",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC21",
+    "subjectCode": "CIG1003",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 21",
+        "isMandatory": true,
+        "teacher": "EGUREN JOAQUÍN ANTONIO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 21",
+        "isMandatory": true,
+        "teacher": "EGUREN JOAQUÍN ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC22",
+    "subjectCode": "CIG1003",
+    "section": "Sección 22",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 22",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 22",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC23",
+    "subjectCode": "CIG1003",
+    "section": "Sección 23",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 23",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 23",
+        "isMandatory": true,
+        "teacher": "DINAMARCA PABLO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC24",
+    "subjectCode": "CIG1003",
+    "section": "Sección 24",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 24",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 24",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_CB25",
+    "subjectCode": "CIG1003",
+    "section": "Sección 25",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 25",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES B-LEARNING INGLÉS 25",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC26",
+    "subjectCode": "CIG1003",
+    "section": "Sección 26",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 26",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 26",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC27",
+    "subjectCode": "CIG1003",
+    "section": "Sección 27",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 27",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 27",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_CB03",
+    "subjectCode": "CIG1003",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES B-LEARNING INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_CB04",
+    "subjectCode": "CIG1003",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES B-LEARNING INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_CB05",
+    "subjectCode": "CIG1003",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES B-LEARNING INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "EGUREN JOAQUÍN ANTONIO"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES B-LEARNING INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "EGUREN JOAQUÍN ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_CB06",
+    "subjectCode": "CIG1003",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_CB07",
+    "subjectCode": "CIG1003",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_CB08",
+    "subjectCode": "CIG1003",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1013_VC09",
+    "subjectCode": "CIG1003",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC01",
+    "subjectCode": "CIG1014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB10",
+    "subjectCode": "CIG1014",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES B-LEARNING INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB11",
+    "subjectCode": "CIG1014",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES B-LEARNING INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "SOLAR LORENA PAOLA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "VACANTES B-LEARNING INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "SOLAR LORENA PAOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC12",
+    "subjectCode": "CIG1014",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC13",
+    "subjectCode": "CIG1014",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC14",
+    "subjectCode": "CIG1014",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 14",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 14",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB15",
+    "subjectCode": "CIG1014",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 15",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 15",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC16",
+    "subjectCode": "CIG1014",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 16",
+        "isMandatory": true,
+        "teacher": "GRAU XIMENA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 16",
+        "isMandatory": true,
+        "teacher": "GRAU XIMENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC17",
+    "subjectCode": "CIG1014",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 17",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 17",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC18",
+    "subjectCode": "CIG1014",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 18",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 18",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC19",
+    "subjectCode": "CIG1014",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 19",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 19",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC02",
+    "subjectCode": "CIG1014",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC20",
+    "subjectCode": "CIG1014",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 20",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 20",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC21",
+    "subjectCode": "CIG1014",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 21",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 21",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC22",
+    "subjectCode": "CIG1014",
+    "section": "Sección 22",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 22",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 22",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC23",
+    "subjectCode": "CIG1014",
+    "section": "Sección 23",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 23",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 23",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC24",
+    "subjectCode": "CIG1014",
+    "section": "Sección 24",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 24",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 24",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC25",
+    "subjectCode": "CIG1014",
+    "section": "Sección 25",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 25",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 25",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC26",
+    "subjectCode": "CIG1014",
+    "section": "Sección 26",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 26",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 26",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC27",
+    "subjectCode": "CIG1014",
+    "section": "Sección 27",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 27",
+        "isMandatory": true,
+        "teacher": "GRAU XIMENA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 27",
+        "isMandatory": true,
+        "teacher": "GRAU XIMENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC28",
+    "subjectCode": "CIG1014",
+    "section": "Sección 28",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 28",
+        "isMandatory": true,
+        "teacher": "GRAU XIMENA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 28",
+        "isMandatory": true,
+        "teacher": "GRAU XIMENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC29",
+    "subjectCode": "CIG1014",
+    "section": "Sección 29",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 29",
+        "isMandatory": true,
+        "teacher": "GRAU XIMENA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 29",
+        "isMandatory": true,
+        "teacher": "GRAU XIMENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC03",
+    "subjectCode": "CIG1014",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC30",
+    "subjectCode": "CIG1014",
+    "section": "Sección 30",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 30",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 30",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC31",
+    "subjectCode": "CIG1014",
+    "section": "Sección 31",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 31",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 31",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC32",
+    "subjectCode": "CIG1014",
+    "section": "Sección 32",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 32",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 32",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC33",
+    "subjectCode": "CIG1014",
+    "section": "Sección 33",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 33",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 33",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC34",
+    "subjectCode": "CIG1014",
+    "section": "Sección 34",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 34",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 34",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC35",
+    "subjectCode": "CIG1014",
+    "section": "Sección 35",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 35",
+        "isMandatory": true,
+        "teacher": "TERREROS DANIELA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 35",
+        "isMandatory": true,
+        "teacher": "TERREROS DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC36",
+    "subjectCode": "CIG1014",
+    "section": "Sección 36",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 36",
+        "isMandatory": true,
+        "teacher": "TERREROS DANIELA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 36",
+        "isMandatory": true,
+        "teacher": "TERREROS DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC37",
+    "subjectCode": "CIG1014",
+    "section": "Sección 37",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 37",
+        "isMandatory": true,
+        "teacher": "TERREROS DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 37",
+        "isMandatory": true,
+        "teacher": "TERREROS DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC38",
+    "subjectCode": "CIG1014",
+    "section": "Sección 38",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 38",
+        "isMandatory": true,
+        "teacher": "SOLAR LORENA PAOLA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 38",
+        "isMandatory": true,
+        "teacher": "SOLAR LORENA PAOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC39",
+    "subjectCode": "CIG1014",
+    "section": "Sección 39",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 39",
+        "isMandatory": true,
+        "teacher": "SOLAR LORENA PAOLA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 39",
+        "isMandatory": true,
+        "teacher": "SOLAR LORENA PAOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB04",
+    "subjectCode": "CIG1014",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "VACANTES B-LEARNING INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES B-LEARNING INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC40",
+    "subjectCode": "CIG1014",
+    "section": "Sección 40",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 40",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 40",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC41",
+    "subjectCode": "CIG1014",
+    "section": "Sección 41",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 40",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 40",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC42",
+    "subjectCode": "CIG1014",
+    "section": "Sección 42",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLÉS 42",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLÉS 42",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC43",
+    "subjectCode": "CIG1014",
+    "section": "Sección 43",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 43",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 43",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC44",
+    "subjectCode": "CIG1014",
+    "section": "Sección 44",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 44",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 44",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC45",
+    "subjectCode": "CIG1014",
+    "section": "Sección 45",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 45",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 45",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC46",
+    "subjectCode": "CIG1014",
+    "section": "Sección 46",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 46",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 46",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC47",
+    "subjectCode": "CIG1014",
+    "section": "Sección 47",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 47",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLÉS 47",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB48",
+    "subjectCode": "CIG1014",
+    "section": "Sección 48",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES B-LEARNING INGLÉS 48",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES B-LEARNING INGLÉS 48",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB49",
+    "subjectCode": "CIG1014",
+    "section": "Sección 49",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 49",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 49",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB05",
+    "subjectCode": "CIG1014",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES B-LEARNING INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC50",
+    "subjectCode": "CIG1014",
+    "section": "Sección 50",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 50",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 50",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC51",
+    "subjectCode": "CIG1014",
+    "section": "Sección 51",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 51",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLÉS 51",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC52",
+    "subjectCode": "CIG1014",
+    "section": "Sección 52",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 52",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 52",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC53",
+    "subjectCode": "CIG1014",
+    "section": "Sección 53",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLÉS 53",
+        "isMandatory": true,
+        "teacher": "ACUÑA SYLVIA VICTORIA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLÉS 53",
+        "isMandatory": true,
+        "teacher": "ACUÑA SYLVIA VICTORIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC54",
+    "subjectCode": "CIG1014",
+    "section": "Sección 54",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 54",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 54",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC55",
+    "subjectCode": "CIG1014",
+    "section": "Sección 55",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 55",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 55",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC56",
+    "subjectCode": "CIG1014",
+    "section": "Sección 56",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 56",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 56",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC57",
+    "subjectCode": "CIG1014",
+    "section": "Sección 57",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 57",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 57",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC58",
+    "subjectCode": "CIG1014",
+    "section": "Sección 58",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 58",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 58",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC59",
+    "subjectCode": "CIG1014",
+    "section": "Sección 59",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 59",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLÉS 59",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB06",
+    "subjectCode": "CIG1014",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES B-LEARNING INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES B-LEARNING INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB07",
+    "subjectCode": "CIG1014",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES B-LEARNING INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "VACANTES B-LEARNING INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB08",
+    "subjectCode": "CIG1014",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES B-LEARNING INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES B-LEARNING INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB09",
+    "subjectCode": "CIG1014",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "VACANTES B-LEARNING INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES B-LEARNING INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02111_VC1",
+    "subjectCode": "KIN02111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO SEC 1",
+        "isMandatory": true,
+        "teacher": "SALDAÑA VICENTE EDUARDO",
+        "secondTeacher": "URREA AMANDA PENELOPE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO SEC 1",
+        "isMandatory": true,
+        "teacher": "SALDAÑA VICENTE EDUARDO",
+        "secondTeacher": "URREA AMANDA PENELOPE"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE",
+        "secondTeacher": "BRAVO LEONARDO ENRIQUE"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BRAVO LEONARDO ENRIQUE"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA SEC 1",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE JAVIERA IGNACIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02111_VC2",
+    "subjectCode": "KIN02111",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE",
+        "secondTeacher": "BRAVO LEONARDO ENRIQUE"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BRAVO LEONARDO ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO SEC 2",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE",
+        "secondTeacher": "REYES MAURICIO EUGENIO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "LABORATORIO SEC 2",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE",
+        "secondTeacher": "REYES MAURICIO EUGENIO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA SEC 2",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE JAVIERA IGNACIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_01",
+    "subjectCode": "KIN02112",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_10",
+    "subjectCode": "KIN02112",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 05",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_11",
+    "subjectCode": "KIN02112",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_12",
+    "subjectCode": "KIN02112",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_13",
+    "subjectCode": "KIN02112",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_14",
+    "subjectCode": "KIN02112",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_15",
+    "subjectCode": "KIN02112",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_16",
+    "subjectCode": "KIN02112",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_17",
+    "subjectCode": "KIN02112",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "GUDENSCHWAGER CAMILA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_18",
+    "subjectCode": "KIN02112",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "GUDENSCHWAGER CAMILA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_19",
+    "subjectCode": "KIN02112",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 05",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_02",
+    "subjectCode": "KIN02112",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_20",
+    "subjectCode": "KIN02112",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 05",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_03",
+    "subjectCode": "KIN02112",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_04",
+    "subjectCode": "KIN02112",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_05",
+    "subjectCode": "KIN02112",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_06",
+    "subjectCode": "KIN02112",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_07",
+    "subjectCode": "KIN02112",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "GUDENSCHWAGER CAMILA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_08",
+    "subjectCode": "KIN02112",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "GUDENSCHWAGER CAMILA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02112_09",
+    "subjectCode": "KIN02112",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 05",
+        "isMandatory": true,
+        "teacher": "MOLINA EMILIANO MATIAS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_01",
+    "subjectCode": "KIN02113",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_10",
+    "subjectCode": "KIN02113",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_11",
+    "subjectCode": "KIN02113",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_12",
+    "subjectCode": "KIN02113",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_13",
+    "subjectCode": "KIN02113",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_14",
+    "subjectCode": "KIN02113",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_15",
+    "subjectCode": "KIN02113",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_16",
+    "subjectCode": "KIN02113",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_02",
+    "subjectCode": "KIN02113",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_03",
+    "subjectCode": "KIN02113",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_04",
+    "subjectCode": "KIN02113",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_05",
+    "subjectCode": "KIN02113",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_06",
+    "subjectCode": "KIN02113",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_07",
+    "subjectCode": "KIN02113",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_08",
+    "subjectCode": "KIN02113",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARAYA GABRIEL IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02113_09",
+    "subjectCode": "KIN02113",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CASTRO RODRIGO ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02114_VC1",
+    "subjectCode": "KIN02114",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA ALEJANDRA ANDREA"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "GARCIA DANIELA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CAMPO CLÍNICO MADRE",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CAMPO CLÍNICO MADRE",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "KIN02114_VC2",
+    "subjectCode": "KIN02114",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CAMPO CLÍNICO MADRE",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CAMPO CLÍNICO MADRE",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA ALEJANDRA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "PANTOJA JAIME"
+      }
+    ]
+  },
+  {
+    "code": "KIN02114_VC3",
+    "subjectCode": "KIN02114",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA ALEJANDRA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CAMPO CLÍNICO MADRE",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CAMPO CLÍNICO MADRE",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "GARCIA DANIELA PATRICIA"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02114_VC4",
+    "subjectCode": "KIN02114",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA ALEJANDRA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CAMPO CLÍNICO MADRE",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CAMPO CLÍNICO MADRE",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "GARCIA DANIELA PATRICIA"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN 04",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC1",
+    "subjectCode": "KIN02211",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 03 ME",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 03 ME",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 04 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "LABORATORIO 04 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 04 CR",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DINA KAREN DORIS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 04 CR",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DINA KAREN DORIS"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC2",
+    "subjectCode": "KIN02211",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 02 ME",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 02 ME",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 03 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 03 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LABORATORIO 02 NK",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "LABORATORIO 02 NK",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC3",
+    "subjectCode": "KIN02211",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 01 ME",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 01 ME",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 01 NK",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 01 NK",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 01 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC4",
+    "subjectCode": "KIN02211",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 02 ME",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 02 ME",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 03 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 03 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 03 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 03 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC5",
+    "subjectCode": "KIN02211",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 01 NK",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 01 NK",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 04 ME",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 04 ME",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 01 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC6",
+    "subjectCode": "KIN02211",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 01 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 03 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 03 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 04 ME",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 04 ME",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC7",
+    "subjectCode": "KIN02211",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 01 NK",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 01 NK",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 02 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 02 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 04 ME",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 04 ME",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC8",
+    "subjectCode": "KIN02211",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 03 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 03 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 02 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 02 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 04 ME",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 04 ME",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02211_VC9",
+    "subjectCode": "KIN02211",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ MYRIAM"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "SA",
+        "block": "D",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 01 ME",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 01 ME",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 03 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 03 NK",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 01 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01 CR",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02212_VC1",
+    "subjectCode": "KIN02212",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "VERDI ENZO FILIPPO JESÚS"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "VERDI ENZO FILIPPO JESÚS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02212_VC2",
+    "subjectCode": "KIN02212",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ARTURO ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ARTURO ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02212_VC3",
+    "subjectCode": "KIN02212",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "VERDI ENZO FILIPPO JESÚS"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "VERDI ENZO FILIPPO JESÚS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02212_VC4",
+    "subjectCode": "KIN02212",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      }
+    ]
+  },
+  {
+    "code": "KIN02212_VC5",
+    "subjectCode": "KIN02212",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "HERRERO JOAQUÍN ALFONSO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "HERRERO JOAQUÍN ALFONSO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02212_VC6",
+    "subjectCode": "KIN02212",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "GUZMÁN RICARDO ANDRÉS"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "GUZMÁN RICARDO ANDRÉS"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      }
+    ]
+  },
+  {
+    "code": "KIN02311_VC1",
+    "subjectCode": "KIN02311",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DINA KAREN DORIS"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DINA KAREN DORIS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02311_FG1",
+    "subjectCode": "KIN02311",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DINA KAREN DORIS"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DINA KAREN DORIS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02312_VC1",
+    "subjectCode": "KIN02312",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      }
+    ]
+  },
+  {
+    "code": "KIN02312_VC2",
+    "subjectCode": "KIN02312",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      }
+    ]
+  },
+  {
+    "code": "KIN02312_VC3",
+    "subjectCode": "KIN02312",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      }
+    ]
+  },
+  {
+    "code": "KIN02312_VC4",
+    "subjectCode": "KIN02312",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GARCIA DANIELA PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02312_VC5",
+    "subjectCode": "KIN02312",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "GARCIA DANIELA PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02312_VC6",
+    "subjectCode": "KIN02312",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      }
+    ]
+  },
+  {
+    "code": "KIN02313_VC1",
+    "subjectCode": "KIN02313",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "SIMULACIÓN 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ FRANCISCO JAVIER"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "PAVEZ FRANCISCO JAVIER"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "SANCHEZ JAVIERA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "KIN02313_VC2",
+    "subjectCode": "KIN02313",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "SIMULACIÓN 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "MORALES FELIPE ISRAEL"
+      }
+    ]
+  },
+  {
+    "code": "KIN02313_VC3",
+    "subjectCode": "KIN02313",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "SIMULACIÓN 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "NUÑEZ EDUARDO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "KIN02313_VC4",
+    "subjectCode": "KIN02313",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "PAVEZ FRANCISCO JAVIER"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "PAVEZ FRANCISCO JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "SIMULACIÓN 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 04",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02313_VC5",
+    "subjectCode": "KIN02313",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "SIMULACIÓN 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ALVAYAY CARLOS SEBASTIAN"
+      }
+    ]
+  },
+  {
+    "code": "KIN02314_VC1",
+    "subjectCode": "KIN02314",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02314_VC2",
+    "subjectCode": "KIN02314",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "VILLARROEL GREGORY"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "VILLARROEL GREGORY"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "KIN02314_VC3",
+    "subjectCode": "KIN02314",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02314_VC4",
+    "subjectCode": "KIN02314",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN 04",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02314_VC5",
+    "subjectCode": "KIN02314",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "VILLARROEL GREGORY"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "VILLARROEL GREGORY"
+      }
+    ]
+  },
+  {
+    "code": "KIN02314_VC6",
+    "subjectCode": "KIN02314",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 06",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN06",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02315_VC1",
+    "subjectCode": "KIN02315",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "VALDIVIA ISRAEL ALEJANDRO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "VALDIVIA ISRAEL ALEJANDRO"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALDIVIA ISRAEL ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "LUDUEÑA KATHERINE NICOLE"
+      }
+    ]
+  },
+  {
+    "code": "KIN02315_VC2",
+    "subjectCode": "KIN02315",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "ASTORGA MAGDALENA MARIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALDIVIA ISRAEL ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02315_VC3",
+    "subjectCode": "KIN02315",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALDIVIA ISRAEL ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "BENAVIDES PABLO NICOLÁS"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "BENAVIDES PABLO NICOLÁS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02315_VC4",
+    "subjectCode": "KIN02315",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALDIVIA ISRAEL ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "ALVAREZ CARLOS LEANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "ALVAREZ CARLOS LEANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 04",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02315_VC5",
+    "subjectCode": "KIN02315",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALDIVIA ISRAEL ALEJANDRO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "CARRASCO JAVIERA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "CARRASCO JAVIERA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 05",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02315_VC6",
+    "subjectCode": "KIN02315",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALDIVIA ISRAEL ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "MARTINEZ ALAN FREDERIK"
+      }
+    ]
+  },
+  {
+    "code": "KIN02322_VC1",
+    "subjectCode": "KIN02411",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MEDINA ALVARO GUILLERMO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "MEDINA ALVARO GUILLERMO"
+      }
+    ]
+  },
+  {
+    "code": "KIN02322_VC2",
+    "subjectCode": "KIN02411",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02322_VC3",
+    "subjectCode": "KIN02411",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02412_VC1",
+    "subjectCode": "KIN02412",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MAURO JORGE JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "KIN02412_VC2",
+    "subjectCode": "KIN02412",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GARCIA DANIELA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GARCIA DANIELA PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02412_VC3",
+    "subjectCode": "KIN02412",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "TRUJILLO LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "KIN02412_VC4",
+    "subjectCode": "KIN02412",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "VERDI ENZO FILIPPO JESÚS"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "VERDI ENZO FILIPPO JESÚS"
+      }
+    ]
+  },
+  {
+    "code": "KIN02412_VC5",
+    "subjectCode": "KIN02412",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+      }
+    ]
+  },
+  {
+    "code": "KIN02412_VC6",
+    "subjectCode": "KIN02412",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "VILLARROEL GREGORY"
+      }
+    ]
+  },
+  {
+    "code": "KIN02412_VC7",
+    "subjectCode": "KIN02412",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 07",
+        "isMandatory": true,
+        "teacher": "SADARANGANI KABIR PREM"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO 07",
+        "isMandatory": true,
+        "teacher": "SADARANGANI KABIR PREM"
+      }
+    ]
+  },
+  {
+    "code": "KIN02423_VC1",
+    "subjectCode": "KIN02423",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02423_VC2",
+    "subjectCode": "KIN02423",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN02423_VC3",
+    "subjectCode": "KIN02423",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA VICTOR PATRICIO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "KIN0915_VC01",
+    "subjectCode": "KIN0915",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORDERO MYRIAM ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORDERO MYRIAM ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "KIN0917_VC01",
+    "subjectCode": "KIN0917",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ARRIAGADA ALEJANDRA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "SEIN EMILIA TERESA"
+      }
+    ]
+  },
+  {
+    "code": "PRI0001_VC04",
+    "subjectCode": "PRI0001",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA_04",
+        "isMandatory": true,
+        "teacher": "MIRANDA FABIOLA MARISOL",
+        "secondTeacher": "PEREZ DANITZA KARINN"
+      }
+    ]
+  }
+]

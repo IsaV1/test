@@ -1,0 +1,386 @@
+[
+  {
+    "code": "CBF1001",
+    "name": "CALOR Y ONDAS",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "CBF1002",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "CBM1005",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CBM1006",
+    "name": "CÁLCULO III",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CII1000",
+    "name": "CONTABILIDAD Y COSTOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CII2002",
+    "name": "INGENIERIA ECONÓMICA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CII2750",
+    "name": "OPTIMIZACIÓN",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3328",
+    "name": "GESTIÓN EN INNOVACIÓN TECNOLÓGICA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3416",
+    "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3420",
+    "name": "REDES ÓPTICAS DE DATOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT4011",
+    "name": "TITULACIÓN EXÁMEN DE TÍTULO",
+    "credits": "30 ",
+    "references": []
+  },
+  {
+    "code": "CIT4012",
+    "name": "TITULACIÓN MEMORIA",
+    "credits": "30 ",
+    "references": []
+  },
+  {
+    "code": "CIT4013",
+    "name": "TITULACIÓN TALLER PROFESIONAL",
+    "credits": "30 ",
+    "references": []
+  },
+  {
+    "code": "CIT4014",
+    "name": "TITULACIÓN PAPER",
+    "credits": "30 ",
+    "references": []
+  },
+  {
+    "code": "ING9101",
+    "name": "PRÁCTICAS ELECTIVAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2204",
+    "name": "PROBABILIDADES Y ESTADÍSTICAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIT3345",
+    "name": "PROCESOS ÁGILES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3431",
+    "name": "REDES MÓVILES CELULARES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2006",
+    "name": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2107",
+    "name": "ELECTRÓNICA Y ELECTROTECNIA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2007",
+    "name": "BASES DE DATOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2008",
+    "name": "DESARROLLO WEB Y MÓVIL",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT4000",
+    "name": "PRÁCTICA I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "CIT2108",
+    "name": "TALLER DE REDES Y SERVICIOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2205",
+    "name": "PROYECTO EN TICS I",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2009",
+    "name": "BASES DE DATOS AVANZADAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2109",
+    "name": "ARQUITECTURA Y ORGANIZ DE COMPUTADORES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2110",
+    "name": "SEÑALES Y SISTEMAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2010",
+    "name": "SISTEMAS OPERATIVOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2206",
+    "name": "GESTIÓN ORGANIZACIONAL",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2011",
+    "name": "SISTEMAS DISTRIBUIDOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2111",
+    "name": "COMUNICACIONES DIGITALES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2012",
+    "name": "INGENIERÍA DE SOFTWARE",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CII2100",
+    "name": "INTRODUCCIÓN  A LA ECONOMÍA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2112",
+    "name": "TECNOLOGÍAS INALÁMBRICAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2113",
+    "name": "CRIPTOGRAFÍA Y SEGURIDAD EN REDES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2013",
+    "name": "INTELIGENCIA ARTIFICIAL",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2207",
+    "name": "EVALUACIÓN DE PROYECTOS TIC",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT4001",
+    "name": "PRÁCTICA II",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "CIT3100",
+    "name": "ARQUITECTURAS EMERGENTES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3000",
+    "name": "ARQUITECTURA DE SOFTWARE",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3202",
+    "name": "DATA SCIENCE",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3203",
+    "name": "PROYECTO EN TICS II",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT2114",
+    "name": "REDES DE DATOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3349",
+    "name": "GRAFOS Y ALGORITMOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3354",
+    "name": "SISTEMAS DE PROCESAMIENTO PARA BIG DATA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3434",
+    "name": "COMUNIC POR LUZ VISIBLE PARA IND INTELIG",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3435",
+    "name": "ALGORITMOS DE RUTEO Y REDES RESILIENTES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3360",
+    "name": "DEEP LEARNING",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "PRI0001",
+    "name": "PRÁCTICA ELECTIVA INTERDISCIPLINARIA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3501",
+    "name": "PROCESAMIENTO DE IMAGENES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT3364",
+    "name": "RECONOCIMIENTO DE PATRONES EN IMAGENES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CBM1100",
+    "name": "INTRODUCCIÓN AL ÁLGEBRA",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "CBM1101",
+    "name": "INTRODUCCIÓN AL CÁLCULO",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "CBQ1100",
+    "name": "QUÍMICA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CBM1102",
+    "name": "ÁLGEBRA LINEAL",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "CBM1103",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "CBF1100",
+    "name": "MECÁNICA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT1100",
+    "name": "PROGRAMACIÓN",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "FIC1100",
+    "name": "INTRODUCCIÓN A LA INGENIERÍA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "CIT1110",
+    "name": "PROGRAMACIÓN AVANZADA",
+    "credits": "5 ",
+    "references": []
+  }
+]

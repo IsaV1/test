@@ -1,0 +1,428 @@
+[
+  {
+    "code": "ICG3532",
+    "name": "CONTROL DE GESTIÓN I",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3628",
+    "name": "ESTRATEGÍA EMPRESARIAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3633",
+    "name": "OPERACIONES Y PROCESOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "ICG3634",
+    "name": "CONTROL DE GESTIÓN II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3655",
+    "name": "MINERÍA DE DATOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3714",
+    "name": "ENTORNO TRIBUTARIO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3729",
+    "name": "MODELOS DE NEGOCIOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3735",
+    "name": "ADMINISTRACIÓN DE PROCESOS (BPM)",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3736",
+    "name": "CONTROL DE GESTIÓN ESTRATÉGICO",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3756",
+    "name": "INTELIGENCIA DE NEGOCIOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3837",
+    "name": "ADMINISTRACIÓN DE RIESGOS (ERM)",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3838",
+    "name": "GESTIÓN ESTRATÉGICA DE PRESUPUESTOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG3839",
+    "name": "JUEGO CONTROL DE GESTIÓN",
+    "credits": "10 ",
+    "references": []
+  },
+  {
+    "code": "ICG3857",
+    "name": "GOBIERNO DE TECNOLOGÍAS DE INFORMACIÓN",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICO8926",
+    "name": "COMPLIANCE, ÉTICA Y BUENAS CONDUCTAS EMP",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "ICG9049",
+    "name": "GESTIÓN DE PROYECTOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "ICG9050",
+    "name": "HERRAMIENTAS FORENSES DIGITALES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "ICG4111",
+    "name": "FUNDAMENTOS DE ADMINISTRACIÓN",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4112",
+    "name": "MATEMÁTICAS 1",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "ICG4113",
+    "name": "TEC.  DE INF. PARA LOS NEGOCIOS 1",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4114",
+    "name": "PRINCIPIOS DE ECONOMÍA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4115",
+    "name": "TALLER DE COMUNICACIÓN 1",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "ICG4121",
+    "name": "CONTABILIDAD 1",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4122",
+    "name": "PLANIFICACIÓN Y DISEÑO ORGANIZACIONAL",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4123",
+    "name": "MATEMÁTICAS 2",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4124",
+    "name": "TEC. DE INF. PARA LOS NEGOCIOS 2",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "ICG4125",
+    "name": "INTRODUCCIÓN A LA MICROECONOMÍA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4231",
+    "name": "CONTABILIDAD 2",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4232",
+    "name": "MATEMÁTICAS 3",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4233",
+    "name": "TEC DE INFORM PARA LOS NEGOCIOS 3",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "ICG4234",
+    "name": "INT A LA MACROECONOMÍA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4241",
+    "name": "ESTRATÉGIA EMPRESARIAL (ACI)",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "ICG4242",
+    "name": "ESTADÍSTICA DESCRIPTIVA",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4243",
+    "name": "MATEMÁTICAS 4",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4244",
+    "name": "ECONOMÍA DE EMP Y LA INFORMACIÓN",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4245",
+    "name": "FUNDAMENTOS DE COSTOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4351",
+    "name": "ANÁLISIS DE ESTADOS FINANCIEROS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4352",
+    "name": "COSTOS Y PRESUPUESTOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "ICG4353",
+    "name": "INFERENCIA ESTADÍSTICA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "ICG4354",
+    "name": "SISTEMAS DE INFORMACIÓN",
+    "credits": "4 ",
+    "references": []
+  },
+  {
+    "code": "ICG4355",
+    "name": "MODELAMIENTO DE DATOS",
+    "credits": "5 ",
+    "references": []
+  },
+  {
+    "code": "PRI0001",
+    "name": "PRÁCTICA ELECTIVA INTERDISCIPLINARIA",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEFI001",
+    "name": "PROYECTO DE GRADO I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEFI002",
+    "name": "MERCADO DE CAPITALES E INS. DE INVERSIÓN",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEFI003",
+    "name": "INSTRUMENTOS DERIVADOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEFI004",
+    "name": "MÉTODOS ECONOMÉTRICOS EN FINANZAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEFI005",
+    "name": "FINANZAS CORPORATIVAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEMA001",
+    "name": "PROYECTO DE GRADO I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEMA002",
+    "name": "GESTIÓN DE PRODUCTOS, MARCA Y CLIENTES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEMA003",
+    "name": "MARKETING, ANALÍTICA Y MÉTRICAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEMA004",
+    "name": "MARKETING DIGITAL",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEMA005",
+    "name": "MARKETING INDUSTRIAL",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEND001",
+    "name": "PROYECTO DE GRADO I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEND002",
+    "name": "MODELO DE NEGOCIOS DIGITALES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEND003",
+    "name": "BUSINESS ANALYTICS I",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEND004",
+    "name": "ECONOMETRÍA EN CIENCIA DE DATOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEPO001",
+    "name": "PROYECTO DE GRADO I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEPO002",
+    "name": "DIRECCIÓN ESTRATÉGICA DE PERSONAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEPO003",
+    "name": "ANALÍTICA DE PERSONAS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEPO004",
+    "name": "ESTRUCTURA Y DISEÑO DE COMPENSACIONES",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEND005",
+    "name": "BUSINESS ANALYTICS II",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEND006",
+    "name": "PROYECTO DE GRADO II",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "ICG9052",
+    "name": "ÉTICA Y PROTECCIÓN DE DATOS",
+    "credits": "6 ",
+    "references": []
+  },
+  {
+    "code": "FAEEP001",
+    "name": "PROYECTO DE GRADO I",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEEP002",
+    "name": "ECONOMÍA POLÍTICA",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEEP003",
+    "name": "MÉTODOS CUANTITATIVOS PARA POLÍTICAS PÚB",
+    "credits": "7 ",
+    "references": []
+  },
+  {
+    "code": "FAEEP004",
+    "name": "ECONOMÍA AVANZADA DEL SECTOR PÚBLICO",
+    "credits": "7 ",
+    "references": []
+  }
+]

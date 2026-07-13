@@ -1,0 +1,210 @@
+[
+  {
+    "code": "EDE1023",
+    "name": "PRÁCTICA INTERMEDIA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1024",
+    "name": "ENGLISH 7",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1025",
+    "name": "ENGLISH SPEAKING COUNTRIES CULTURE I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1026",
+    "name": "CURRÍCULUM AND PLANNING",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1027",
+    "name": "ASSESSMENT FOR LEARNING",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1032",
+    "name": "PRÁCTICA PROFESIONAL II",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1033",
+    "name": "WRITING FOR ACADEMIC PURPOSES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1034",
+    "name": "SEMINARIO DE TITULACIÓN",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDU9205",
+    "name": "EDUCACIÓN SEXUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1039",
+    "name": "GESTIÓN DE AULA Y TRABAJO COLABORATORIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02111",
+    "name": "ENGLISH 1",
+    "credits": 12,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02112",
+    "name": "INTRODUCTION TO LINGUISTICS",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02113",
+    "name": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02114",
+    "name": "PSICOLOGÍA DEL DESARROLLO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02115",
+    "name": "SISTEMA EDUCATIVO Y CURRICULUM ESCOLAR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02211",
+    "name": "IND EN EL TRAB DOCENTE Y ACERC A LA ESC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02212",
+    "name": "ENGLISH 3",
+    "credits": 12,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02213",
+    "name": "LANGUAGE FOUNDATION 2: LEX GRAM I",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02214",
+    "name": "EFL APPLIED LINGUISTICS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02311",
+    "name": "PRÁCTICA INICIAL I",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02312",
+    "name": "ENGLISH 5",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02314",
+    "name": "TEFL METHODOLOGY LESSON PLAN AND FOR AS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE02313",
+    "name": "TEFL METHODOLOGY: DIVERSITY AND INCLUS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PRI0001",
+    "name": "PRÁCTICA ELECTIVA INTERDISCIPLINARIA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB05113",
+    "name": "FORMACIÓN CIUDADANA Y DERECHOS HUMANOS",
+    "credits": 5,
+    "references": [
+      "EDU4001"
+    ]
+  },
+  {
+    "code": "EDB05114",
+    "name": "CONSTRUCCIÓN DE LA IDENTIDAD DOCENTE",
+    "credits": 5,
+    "references": [
+      "EDU4000"
+    ]
+  }
+]

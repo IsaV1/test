@@ -1,0 +1,394 @@
+[
+  {
+    "code": "ARQ9099",
+    "name": "TALLER VERTICAL DE ARQUITECTURA EN VIVIE",
+    "credits": "10 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9100",
+    "name": "TALLER VERTICAL DE ARQUITECTURA EN EQUIP",
+    "credits": "10 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9151",
+    "name": "TALLER VERTICAL DE ARQUITECTURA - PARTIC",
+    "credits": "10 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9157",
+    "name": "TALLER VERTICAL DE ARQUITECTURA E INNOVA",
+    "credits": "10 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FAD1018",
+    "name": "TALLER INTERNACIONAL EUROPA",
+    "credits": "10 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4242",
+    "name": "DISEÑO ESTRUCTURAL",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4243",
+    "name": "SISTEMAS RETICULADOS",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4244",
+    "name": "MODELADO DE INFORMACIÓN DE CONSTRUCCIÓN",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4351",
+    "name": "TALLER 5 +6",
+    "credits": "9 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4352",
+    "name": "PAISAJE Y TERRITORIO",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4353",
+    "name": "PRÁCTICA DEL URBANISMO",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4354",
+    "name": "ARQUITECTURA CONTEMPORÁNEA",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4362",
+    "name": "LAB.DE APLICACIÓN ESTRUCT.",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4363",
+    "name": "INFRAESTRUCTURAS DE LA EDIFICACIÓN",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4364",
+    "name": "FABRICACIÓN DIGITAL",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4510",
+    "name": "SEMINARIO Y ANTEPROYECTO",
+    "credits": "30 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4591",
+    "name": "PRÁCTICA PROFESIONAL INTENSIVA",
+    "credits": "20 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4592",
+    "name": "SEMINARIO PROFESIONAL",
+    "credits": "7 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4611",
+    "name": "PROYECTO DE TITULO",
+    "credits": "30 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4356",
+    "name": "SEMINARIO DE EXTENSIÓN 2",
+    "credits": "2 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9353",
+    "name": "DEBATES URBANOS",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9374",
+    "name": "TEMPORALIDAD DEL PAISAJE Y ARQUITECTURA",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9417",
+    "name": "TALLER VERTICAL EN PAISAJE Y SUSTENTABIL",
+    "credits": "9 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9424",
+    "name": "HERRAM. PARA EL ANÁLISIS Y VIS DE DATOS",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9425",
+    "name": "HERRAMIENTAS DE SIMULACIÓN DEL M. URBANO",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9429",
+    "name": "FABRICACIÓN AVANZADA: GRADOS DE LIBERTAD",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9438",
+    "name": "LABORATORIO DE EXPLORACIÓN MATERIAL",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PRI0001",
+    "name": "PRÁCTICA ELECTIVA INTERDISCIPLINARIA",
+    "credits": "6 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FAD2025",
+    "name": "LABORATORIO FAAD",
+    "credits": "2 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05112",
+    "name": "FUNDAMENTOS DE LA ARQUITECTURA",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05113",
+    "name": "PRINCIPIOS MECÁNICOS Y TERMODINÁMICOS",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05114",
+    "name": "SISTEMAS MATERIALES",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05121",
+    "name": "ARQUITECTURA MODERNA I",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05122",
+    "name": "ASENTAMIENTOS Y PAISAJE",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05123",
+    "name": "DISEÑO INFORMADO",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9439",
+    "name": "CIUDAD, COMUNIDAD Y PARTICIPACIÓN",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9440",
+    "name": "EL PAISAJE DEL AGUA EN LOS PROCESOS PROD",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05212",
+    "name": "ARQUITECTURA MODERNA II",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05213",
+    "name": "NATURALEZA Y CIUDAD",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05214",
+    "name": "SISTEMAS CONSTRUCTIVOS",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05211",
+    "name": "TALLER DE EXP ARQUITECTÓNICA - PROG",
+    "credits": "10 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ05221",
+    "name": "TALLER DE EXP ARQUITECTÓNICA - CONTEXTO",
+    "credits": "10 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9449",
+    "name": "PROCESOS DE PROYECTO",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9450",
+    "name": "RELATOS SITUADOS",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9447",
+    "name": "ARCHIVO FERROVIARIO",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9448",
+    "name": "IMAGEN DE PROYECTO",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "code": "CBF1000",
+    "name": "MECÁNICA",
+    "credits": "7 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1002",
+    "name": "ÁLGEBRA LINEAL",
+    "credits": "6 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1003",
+    "name": "CÁLCULO II",
+    "credits": "6 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII1000",
+    "name": "CONTABILIDAD Y COSTOS",
+    "credits": "6 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT1010",
+    "name": "PROGRAMACIÓN AVANZADA",
+    "credits": "6 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2001",
+    "name": "INGENIERÍA EN MATERIALES",
+    "credits": "6 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1100",
+    "name": "INTRODUCCIÓN AL ÁLGEBRA",
+    "credits": "7 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1101",
+    "name": "INTRODUCCIÓN AL CÁLCULO",
+    "credits": "7 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBQ1100",
+    "name": "QUÍMICA",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT1100",
+    "name": "PROGRAMACIÓN",
+    "credits": "5 ",
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FIC1100",
+    "name": "INTRODUCCIÓN A LA INGENIERÍA",
+    "credits": "6 ",
+    "references": [
+      ""
+    ]
+  }
+]
