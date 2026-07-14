@@ -5,11 +5,7 @@ const fetcher = (url) => fetch(url).then((res) => res.json());
 
 export const CFG_FOLDER = "FORMACION-GENERAL";
 
-export const CFG_FILES = [
-  "CFG-DEPORTIVOS.json",
-  "FORMACION-GENERAL.json",
-  "INGLES-GENERAL.json",
-];
+export const CFG_FILES = ["FORMACION-GENERAL-CFG.json"];
 
 const useSections = (career: string) => {
   const data = [];
